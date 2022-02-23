@@ -20,6 +20,6 @@
 
 #include <plugins/md-plugin.h>
 
-struct md_plugin md_plugin_posix;
+extern struct md_plugin md_plugin_posix;
 
 #endif

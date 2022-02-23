@@ -20,6 +20,6 @@
 
 #include <plugins/md-plugin.h>
 
-struct md_plugin md_plugin_s3;
+extern struct md_plugin md_plugin_s3;
 
 #endif
